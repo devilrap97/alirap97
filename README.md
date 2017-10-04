@@ -79,6 +79,6 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
   }
 :@devilrap: مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي
 
-#Dev : [@zzaa6) #Dev_BOT : [@Zain121bot) #Dev_Channel : [@zaintyh)
+#Dev : [@devlrap) #Dev_BOT : [@devilrap97) 
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️ You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
