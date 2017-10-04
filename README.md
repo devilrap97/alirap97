@@ -59,8 +59,8 @@ redis-server
 
 وفتح ترمنال ثاني وخلي 👇🏿 
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SAJJAD94/zain.aliraqex.git && cd zain.aliraqex && chmod +x launch.sh && ./launch.sh install && ./launch.sh
-يطلب رقم خلي رقم البوت ✋🏿:kissing_heart: مبروك عليك افضل بوت عل تلي :heart_eyes:
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/devilrap97/alirap97.git && cd alirap97 && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+يطلب رقم خلي رقم البوت ✋🏿:@devilrap: مبروك عليك افضل بوت عل تلي :@devilrap:
 
 Enter a phone number & confirmation code.
 
