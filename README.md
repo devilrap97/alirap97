@@ -1,38 +1,38 @@
 
 
-devil
+devil طريقة تنصيب سورس 
 
 # Let's install the bot.
-افتـح ترمنـــأل وخلي 👇🏿 Open Terminal and vinegary
+افتـح ترمنـــأل وخلي 👇🏿 
 
 sudo apt-get update 
 
-ورهأَ خلي 👇🏿 And vinegary
+ورهأَ خلي 👇🏿 
 
 redis-server
-تركه مفتوح✋🏿  Leave it open Terminal
+تركه مفتوح✋🏿  
 
-وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
+وفتح ترمنال ثاني وخلي 👇🏿 
 ************************************************************
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/zain211/zain.aliraqex.git
+git clone https://github.com/devilrap97/alirap97
 *****************************************************
-ورهأ خلي 👇🏿 And vinegary
+ورهأ خلي 👇🏿 
 **************************
-cd zain.aliraqex
+cd alirap97
 **************************
-ورهأَ خلي👇🏿 And vinegary
+ورهأَ خلي👇🏿 
 **************************
 chmod +x launch.sh
 **************************
-ورهأَ خلي👇🏿 And vinegary
+ورهأَ خلي👇🏿 
 **************************
 ./launch.sh install
 **************************
-ورهأَ خلي👇🏿 And vinegary
+ورهأَ خلي👇🏿 
 **************************
 ./launch.sh 
 **************************
@@ -47,17 +47,17 @@ To install everything in one command (useful for VPS deployment) on Debian-based
 
 لتنصيب البوـب بكوَدَ واحد فقط َ ✋🏿:kissing_heart:👇🏿 To install one code
 
-فتح ترمنال وخلي 👇🏿 Open Terminal and vinegary
+فتح ترمنال وخلي 👇🏿 
 
 sudo apt-get update
 
-ورهأَ خلي 👇🏿 And vinegary
+ورهأَ خلي 👇🏿 
 
 redis-server
 
-تركه مفتوح✋🏿 Leave it open Terminal
+تركه مفتوح✋🏿 
 
-وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
+وفتح ترمنال ثاني وخلي 👇🏿 
 
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SAJJAD94/zain.aliraqex.git && cd zain.aliraqex && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 يطلب رقم خلي رقم البوت ✋🏿:kissing_heart: مبروك عليك افضل بوت عل تلي :heart_eyes:
@@ -77,7 +77,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
     0,
     YourID
   }
-:kissing_heart: مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي
+:@devilrap: مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي
 
 #Dev : [@zzaa6) #Dev_BOT : [@Zain121bot) #Dev_Channel : [@zaintyh)
 
